@@ -1,0 +1,14 @@
+html {
+    height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    background-color: var(--white);
+
+}
+body {
+    height: 80vh;
+    width: 90vw;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    /* display: none; */
+}
